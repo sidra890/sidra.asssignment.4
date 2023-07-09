@@ -3,6 +3,10 @@
     padding: 0;
 }
 body{
-    backgroundd-color:black;
+    /* made changes in remote repo */
+    background-color:black;
     color:pink;
+    /* making changes in local after pull*/
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
 }
